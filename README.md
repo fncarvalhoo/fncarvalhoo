@@ -12,9 +12,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
- <br>
+<br>
  
-### Para me conhecer melhor siga-me nas redes abaixo!</p>
+ <p style="color: #FF0000">Para me conhecer melhor siga-me nas redes abaixo!</p>
  
 <div> 
   <a href="https://instagram.com/FNCarvalho_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
