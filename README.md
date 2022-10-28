@@ -1,4 +1,9 @@
-## Bem-vindo(a) ao perfil de Fernando Carvalho 😁
+<div align="center">
+Bem-vindo(a) ao perfil de Fernando Carvalho 😁
+</div>
+
+##
+
 <div align="center">
   <a href="https://github.com/fncarvalhoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fncarvalhoo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
